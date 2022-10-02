@@ -7,3 +7,5 @@
 ###### In their communication, each machine has its own role: the machine sending requests is usually referred as "Client" and the machine responding (serving) is called "Server".
 
 ###### A simple diagram of Web Client-Server architecture is presented below:
+
+https://darey.io/wp-content/uploads/2021/07/Client-server.png#gh-dark-mode-only
