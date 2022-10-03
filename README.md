@@ -40,6 +40,7 @@ and "SQL", the abbreviation for Structured Query Language.
 ###### sudo vi /etc/mysql/mysql.conf.d/mysqld.cnf
 
 ###### Replace ‘127.0.0.1’ to ‘0.0.0.0’ like this:
+
 ![GitHub Dark ](https://staging-learning.darey.io/wp-content/uploads/2021/06/mysql_bind.png#gh-dark-mode-only)
 
 
