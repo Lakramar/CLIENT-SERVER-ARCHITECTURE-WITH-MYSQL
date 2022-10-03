@@ -36,16 +36,16 @@ and "SQL", the abbreviation for Structured Query Language.
 
 ###### 5.  You might need to configure MySQL server to allow connections from remote hosts.
 
-###### sudo vi /etc/mysql/mysql.conf.d/mysqld.cnf
+###### *sudo vi /etc/mysql/mysql.conf.d/mysqld.cnf*
 
-###### Replace ‘127.0.0.1’ to ‘0.0.0.0’
+###### *Replace ‘127.0.0.1’ to ‘0.0.0.0’*
 
 ###### 6. From mysql client Linux Server connect remotely to mysql server Database Engine without using SSH. You must use the mysql utility to perform this action.
 
-###### sudo mysql -u remote_user -h 172.31.19.233 -p 
+###### *sudo mysql -u remote_user -h 172.31.19.233 -p*
 
 ###### 7. Check that you have successfully connected to a remote MySQL server and can perform SQL queries:
 
-###### Show databases;
+###### *Show databases;*
 
 
